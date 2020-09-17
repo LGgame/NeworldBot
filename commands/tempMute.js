@@ -38,7 +38,7 @@ module.exports.run = async(bot, message, args) => {
 
         channel.send(`${mutePerson} You are unmuted!`);
 
-    }, ms(muteTime));
+    }, timeStamp(muteTime));
 
 }
 
