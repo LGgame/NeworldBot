@@ -1,0 +1,19 @@
+{
+  "name": "neworld-helper",
+  "version": "1.0.0",
+  "description": "Discord bot Neworld Helper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bot",
+    "Neworld",
+    "Helper"
+  ],
+  "author": "LGgame",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.3.1"
+  }
+}
